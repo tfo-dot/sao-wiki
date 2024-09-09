@@ -34,8 +34,8 @@ Informacja jest ukryta, pobaw się światem i zobacz co się stanie!
 
 Shin to postać o ciemnych włosach i poważnym wyrazie twarzy. Ma krótkie, rozczochrane włosach, ubrany w wojskowy strój w kolorze khaki. Strój składa się z kurtki z długimi rękawami z dwoma kieszeniami na piersiach oraz spodni o podobnym odcieniu. Na szyi nosi biały szalik, a na dłoniach ma ciemne rękawiczki bez palców.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Shinnei Nouzen z 86 jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Shinnei Nouzen z 86 jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

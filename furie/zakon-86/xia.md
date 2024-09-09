@@ -32,8 +32,8 @@ Informacja jest ukryta, pobaw się światem i zobacz co się stanie!
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>z Genshin Impact jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption><p>z Genshin Impact jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="375"><figcaption></figcaption></figure>

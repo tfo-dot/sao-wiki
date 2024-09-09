@@ -34,4 +34,4 @@ Ta furia nie ma żadnych specjalnych warunków na zdobycie, wystarczy z nią pog
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="282"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="282"><figcaption></figcaption></figure>

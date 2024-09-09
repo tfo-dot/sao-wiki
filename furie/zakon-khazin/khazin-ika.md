@@ -38,4 +38,4 @@ Kha'Zin ma długie, różowych włosach, ubrana w stylizację inspirowaną gotyc
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>

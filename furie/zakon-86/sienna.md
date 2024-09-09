@@ -30,8 +30,8 @@ Wypicie z nią herbaty w zakonie 86, jeśli będziesz godny sama zaproponuje ci 
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption><p>Ling z Arknights jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption><p>Ling z Arknights jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="224"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="224"><figcaption></figcaption></figure>

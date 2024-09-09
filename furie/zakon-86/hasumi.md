@@ -34,8 +34,8 @@ Ma krótkie, jasne włosy z ciemnymi końcówkami, dodatkowo na głowie ma duże
 
 Na plecach ma kołczan ze strzałami. W jej stroju dominuje szary kolor z czerwonymi akcentami, a na nogach nosi buty z czerwonymi sznurowadłami. Widać również elementy pancerza, co wskazuje na gotowość do walki.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>April z Arknights jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>April z Arknights jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

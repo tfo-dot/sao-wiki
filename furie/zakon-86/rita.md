@@ -30,9 +30,9 @@ Musisz posiadać skill leczący, tak samo jak w przypadku innych przed wybraniem
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Quercus z Arknights jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Quercus z Arknights jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="130"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="130"><figcaption></figcaption></figure>
 

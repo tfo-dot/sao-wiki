@@ -32,8 +32,8 @@ Informacja jest ukryta, pobaw się światem i zobacz co się stanie!
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Furina z Genshin Impact jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Furina z Genshin Impact jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="331"><figcaption></figcaption></figure>

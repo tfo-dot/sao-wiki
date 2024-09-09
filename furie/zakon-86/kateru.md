@@ -30,8 +30,8 @@ Ta furia nie ma żadnych specjalnych warunków na zdobycie, wystarczy z nią pog
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>z Genshin Impact jako inspiracja</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>z Genshin Impact jako inspiracja</p></figcaption></figure>
 
 ### Broń
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
