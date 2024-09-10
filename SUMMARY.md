@@ -18,6 +18,7 @@
   * [Hikari Ika](furie/zakon-khazin/hikari-ika.md)
   * [Raito Ika](furie/zakon-khazin/raito-ika.md)
   * [Jikan Ika](furie/zakon-khazin/jikan-ika.md)
+  * [Rin Ika](furie/zakon-khazin/rin-ika.md)
 * [Zakon 86](furie/zakon-86/README.md)
   * [Shin Ilex](furie/zakon-86/shin-ilex.md)
   * [Hasumi](furie/zakon-86/hasumi.md)
@@ -32,6 +33,8 @@
   * [Lyney i Lynette](furie/zakon-86/lyney-i-lynette.md)
   * [Kateko](furie/zakon-86/kateko.md)
   * [Frieda](furie/zakon-86/frieda.md)
+* [Niepowiązane](furie/niepowiazane/README.md)
+  * [Reimi](furie/niepowiazane/reimi.md)
 
 ## Sklepy
 
