@@ -14,4 +14,10 @@ Są waszymi pomocnikami w świecie, dając wam unikalne umiejętności i statyst
 
 ## Zdobywanie Furii
 
-\<Ta sekcja zostanie dopisana po pokonaniu bossa drugiego piętra>
+Istnieją różne sposoby na ich zdobycie, administracja ogłaszać będzie kolejne warunki, przykładowo osoba, która zdobędzie najszybciej maksymalny poziom na piętrze otrzyma opcje wyboru.
+
+Aby wybrać daną furię musisz z nią pogadać przynajmniej raz, niektóre istoty mają dodatkowe warunki widoczne w ich kartach, ewentualnie ukryte.
+
+## Przynależność
+
+Większość furii przynależy do zakonu, który jest zbiorczym określeniem grupy furii. Niektóre furie jednak nie mają swojego miejsca na ziemi, tak jak [reimi.md](niepowiazane/reimi.md "mention"). Zakony są aspektem czysto fabularnym i nie powinny wpływać na grę w stopniu znaczącym.

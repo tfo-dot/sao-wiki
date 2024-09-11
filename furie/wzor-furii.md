@@ -6,7 +6,7 @@ hidden: true
 
 ## Informacje osobowe
 
-Imię i nazwisko\
+Imię i nazwisko:\
 Atrybut:\
 Wiek:\
 Wzrost:\

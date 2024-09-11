@@ -33,13 +33,65 @@
   * [Lyney i Lynette](furie/zakon-86/lyney-i-lynette.md)
   * [Kateko](furie/zakon-86/kateko.md)
   * [Frieda](furie/zakon-86/frieda.md)
+* [Aiden](furie/aiden.md)
+* [Bad Furries](furie/bad-furries.md)
 * [Niepowiązane](furie/niepowiazane/README.md)
   * [Reimi](furie/niepowiazane/reimi.md)
 
 ## Sklepy
 
-* [Page 2](sklepy/page-2.md)
+* [Legenda](sklepy/legenda.md)
 
 ## Lokacje
 
-* [Page](lokacje/page.md)
+* [Pierwsze piętro](lokacje/pierwsze-pietro/README.md)
+  * [Mistyczny las](lokacje/pierwsze-pietro/mistyczny-las.md)
+
+## Przedmioty
+
+* [Wojownicy](przedmioty/wojownicy/README.md)
+  * [Tanki](przedmioty/wojownicy/tanki/README.md)
+    * [Płaszcz wzmacniający](przedmioty/wojownicy/tanki/plaszcz-wzmacniajacy.md)
+
+## Walka
+
+* [Game loop](walka/game-loop.md)
+* [Umiejętności](walka/umiejetnosci.md)
+
+## Gracz
+
+* [Umiejętności](gracz/umiejetnosci/README.md)
+  * [Obrażenia](gracz/umiejetnosci/obrazenia/README.md)
+    * [Poziom 1](gracz/umiejetnosci/obrazenia/poziom-1.md)
+    * [Poziom 2](gracz/umiejetnosci/obrazenia/poziom-2.md)
+    * [Poziom 3](gracz/umiejetnosci/obrazenia/poziom-3.md)
+    * [Poziom 4](gracz/umiejetnosci/obrazenia/poziom-4.md)
+    * [Poziom 5](gracz/umiejetnosci/obrazenia/poziom-5.md)
+    * [Poziom 6](gracz/umiejetnosci/obrazenia/poziom-6.md)
+  * [Kontrola](gracz/umiejetnosci/kontrola/README.md)
+    * [Poziom 1](gracz/umiejetnosci/kontrola/poziom-1.md)
+    * [Poziom 2](gracz/umiejetnosci/kontrola/poziom-2.md)
+    * [Poziom 3](gracz/umiejetnosci/kontrola/poziom-3.md)
+    * [Poziom 4](gracz/umiejetnosci/kontrola/poziom-4.md)
+    * [Poziom 5](gracz/umiejetnosci/kontrola/poziom-5.md)
+    * [Poziom 6](gracz/umiejetnosci/kontrola/poziom-6.md)
+  * [Wytrzymałość](gracz/umiejetnosci/wytrzymalosc/README.md)
+    * [Poziom 1](gracz/umiejetnosci/wytrzymalosc/poziom-1.md)
+    * [Poziom 2](gracz/umiejetnosci/wytrzymalosc/poziom-2.md)
+    * [Poziom 3](gracz/umiejetnosci/wytrzymalosc/poziom-3.md)
+    * [Poziom 4](gracz/umiejetnosci/wytrzymalosc/poziom-4.md)
+    * [Poziom 5](gracz/umiejetnosci/wytrzymalosc/poziom-5.md)
+    * [Poziom 6](gracz/umiejetnosci/wytrzymalosc/poziom-6.md)
+  * [Specjalista](gracz/umiejetnosci/specjalista/README.md)
+    * [Poziom 1](gracz/umiejetnosci/specjalista/poziom-1.md)
+    * [Poziom 2](gracz/umiejetnosci/specjalista/poziom-2.md)
+    * [Poziom 3](gracz/umiejetnosci/specjalista/poziom-3.md)
+    * [Poziom 4](gracz/umiejetnosci/specjalista/poziom-4.md)
+    * [Poziom 5](gracz/umiejetnosci/specjalista/poziom-5.md)
+    * [Poziom 6](gracz/umiejetnosci/specjalista/poziom-6.md)
+* [Party](gracz/party.md)
+
+## Inne
+
+* [Statystyki](inne/statystyki.md)
+* [Pancerze](inne/pancerze.md)
