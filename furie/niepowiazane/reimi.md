@@ -30,6 +30,7 @@ Ta furia nie ma żadnych specjalnych warunków na zdobycie, wystarczy z nią pog
 
 ### Postać
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="423"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="423"><figcaption><p>Druvis III z Reverse: 1999 jako inspiracja</p></figcaption></figure>
 
 ### Broń
+

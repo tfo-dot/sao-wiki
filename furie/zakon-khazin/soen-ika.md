@@ -35,3 +35,7 @@ Brak
 ### Broń
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="551"><figcaption></figcaption></figure>
+
+## Więcej informacji
+
+Soen początkowo była człowiekiem, żyła jako zwykła dziewczyna - Chloe Kowloon. Ze względu na to, że jej ojciec był władającym [Kha](khazin-ika.md), jej rodzina została zaatakowana. Jej rodzice zginęli na miejscu, ona została odratowana przez Furię ( [khazin-ika.md](khazin-ika.md "mention") ), w wyniku czego sama nią została.

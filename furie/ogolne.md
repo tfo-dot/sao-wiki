@@ -18,6 +18,16 @@ Istnieją różne sposoby na ich zdobycie, administracja ogłaszać będzie kole
 
 Aby wybrać daną furię musisz z nią pogadać przynajmniej raz, niektóre istoty mają dodatkowe warunki widoczne w ich kartach, ewentualnie ukryte.
 
+## Poziomy Furii
+
+Niektóre Furie rosną siłę wraz z zdobytym przez was doświadczeniem. W przeciwieństwie do graczy, nie mają one limitów na poziom, ograniczają je tiery.
+
+Po zakończeniu walki furie otrzymują 20% przez was zdobytego doświadczenie.
+
+{% hint style="info" %}
+EXP zdobywany przez furie nie zabiera doświadczenia, które otrzymuje gracz.
+{% endhint %}
+
 ## Przynależność
 
 Większość furii przynależy do zakonu, który jest zbiorczym określeniem grupy furii. Niektóre furie jednak nie mają swojego miejsca na ziemi, tak jak [reimi.md](niepowiazane/reimi.md "mention"). Zakony są aspektem czysto fabularnym i nie powinny wpływać na grę w stopniu znaczącym.

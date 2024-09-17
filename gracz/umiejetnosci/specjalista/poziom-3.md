@@ -4,7 +4,7 @@
 
 Typ: Aktywna
 
-Flagi: ===
+Flagi: Można użyć w trakcie CC
 
 Koszt: 1 many
 

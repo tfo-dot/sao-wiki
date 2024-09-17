@@ -4,7 +4,7 @@
 
 Typ: Aktywna
 
-Flagi: ===
+Flagi:&#x20;
 
 Koszt: 1 many
 

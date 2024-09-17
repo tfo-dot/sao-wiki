@@ -35,3 +35,7 @@ Ta furia nie ma żadnych specjalnych warunków na zdobycie, wystarczy z nią pog
 ### Broń
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Więcej informacji
+
+Dziecko [sora-ika.md](sora-ika.md "mention"), nie wie o tym nikt poza [khazin-ika.md](khazin-ika.md "mention"), [jikan-ika.md](jikan-ika.md "mention"), nią samą oraz jej bliźniaczką [raito-ika.md](raito-ika.md "mention").

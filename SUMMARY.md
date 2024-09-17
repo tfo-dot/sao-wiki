@@ -33,33 +33,91 @@
   * [Lyney i Lynette](furie/zakon-86/lyney-i-lynette.md)
   * [Kateko](furie/zakon-86/kateko.md)
   * [Frieda](furie/zakon-86/frieda.md)
-* [Aiden](furie/aiden.md)
-* [Bad Furries](furie/bad-furries.md)
+* [Aiden](furie/aiden/README.md)
+  * [Aiden Kai](furie/aiden/aiden-kai.md)
+* [Bad Furries](furie/bad-furries/README.md)
+  * [Si Ku](furie/bad-furries/si-ku.md)
 * [Niepowiązane](furie/niepowiazane/README.md)
   * [Reimi](furie/niepowiazane/reimi.md)
 
 ## Sklepy
 
 * [Legenda](sklepy/legenda.md)
+* [Wspierający](sklepy/wspierajacy.md)
+* [Czarodziej](sklepy/czarodziej.md)
+* [Wojownik](sklepy/wojownik.md)
+* [Kontroler](sklepy/kontroler.md)
+* [Zielarka](sklepy/zielarka.md)
 
 ## Lokacje
 
 * [Pierwsze piętro](lokacje/pierwsze-pietro/README.md)
+  * [Jaskinia](lokacje/pierwsze-pietro/jaskinia.md)
+  * [Polana](lokacje/pierwsze-pietro/polana.md)
+  * [Las](lokacje/pierwsze-pietro/las.md)
   * [Mistyczny las](lokacje/pierwsze-pietro/mistyczny-las.md)
+  * [Podnóże wulkanu](lokacje/pierwsze-pietro/podnoze-wulkanu.md)
+  * [Wulkan](lokacje/pierwsze-pietro/wulkan.md)
+  * [Dev](lokacje/pierwsze-pietro/dev.md)
+* [Drugie piętro](lokacje/drugie-pietro/README.md)
+  * [Kraina żywiołów](lokacje/drugie-pietro/kraina-zywiolow.md)
+  * [Kamieniołom](lokacje/drugie-pietro/kamieniolom.md)
+  * [Orcza dolina](lokacje/drugie-pietro/orcza-dolina.md)
+  * [Pole](lokacje/drugie-pietro/pole.md)
+  * [Opuszczona kopalnia](lokacje/drugie-pietro/opuszczona-kopalnia.md)
 
 ## Przedmioty
 
+* [Magowie](przedmioty/magowie/README.md)
+  * [Pasek Kyoki](przedmioty/magowie/pasek-kyoki.md)
+  * [Płomień Shiki](przedmioty/magowie/plomien-shiki.md)
 * [Wojownicy](przedmioty/wojownicy/README.md)
-  * [Tanki](przedmioty/wojownicy/tanki/README.md)
-    * [Płaszcz wzmacniający](przedmioty/wojownicy/tanki/plaszcz-wzmacniajacy.md)
+  * [Atakujący](przedmioty/wojownicy/atakujacy/README.md)
+    * [Oblicze ataku](przedmioty/wojownicy/atakujacy/oblicze-ataku.md)
+    * [Zwiastun burzy](przedmioty/wojownicy/atakujacy/zwiastun-burzy.md)
+    * [Piaskowe ostrze](przedmioty/wojownicy/atakujacy/piaskowe-ostrze.md)
+    * [Zabójca gigantów](przedmioty/wojownicy/atakujacy/zabojca-gigantow.md)
+    * [Pogromca gigantów](przedmioty/wojownicy/atakujacy/pogromca-gigantow.md)
+    * [Zabójca magów](przedmioty/wojownicy/atakujacy/zabojca-magow.md)
+    * [Wodne ostrze](przedmioty/wojownicy/atakujacy/wodne-ostrze.md)
+  * [Obrońcy](przedmioty/wojownicy/obroncy/README.md)
+    * [Ostrze obrońcy](przedmioty/wojownicy/obroncy/ostrze-obroncy.md)
+    * [Drugi oddech](przedmioty/wojownicy/obroncy/drugi-oddech.md)
+    * [Dziedzictwo Ryu](przedmioty/wojownicy/obroncy/dziedzictwo-ryu.md)
+    * [Gniew Lilith](przedmioty/wojownicy/obroncy/gniew-lilith.md)
+    * [Płaszcz wzmacniający](przedmioty/wojownicy/obroncy/plaszcz-wzmacniajacy.md)
+    * [Oblicze obrony](przedmioty/wojownicy/obroncy/oblicze-obrony.md)
+    * [Pancerz zwady](przedmioty/wojownicy/obroncy/pancerz-zwady.md)
+    * [Dziedzictwo wojownika](przedmioty/wojownicy/obroncy/dziedzictwo-wojownika.md)
+* [Wspierający](przedmioty/wspierajacy/README.md)
+  * [Ognisty trybularz](przedmioty/wspierajacy/ognisty-trybularz.md)
+  * [Wietrzne wzmocnienie](przedmioty/wspierajacy/wietrzne-wzmocnienie.md)
+  * [Przeklęty lód](przedmioty/wspierajacy/przeklety-lod.md)
+  * [Mgliste wzmocnienie](przedmioty/wspierajacy/mgliste-wzmocnienie.md)
+  * [Syreni Śpiew](przedmioty/wspierajacy/syreni-spiew.md)
+* [Kontrolerzy](przedmioty/kontrolerzy/README.md)
+  * [Ostrze kontrolera](przedmioty/kontrolerzy/ostrze-kontrolera.md)
+  * [Bransoleta kontrolera](przedmioty/kontrolerzy/bransoleta-kontrolera.md)
+  * [Kapelusz kontrolera](przedmioty/kontrolerzy/kapelusz-kontrolera.md)
+  * [Naszyjnik kontrolera](przedmioty/kontrolerzy/naszyjnik-kontrolera.md)
+  * [Runa kontrolera](przedmioty/kontrolerzy/runa-kontrolera.md)
+* [Specjalne](przedmioty/specjalne/README.md)
+  * [Błogosławieństwo Reimi](przedmioty/specjalne/blogoslawienstwo-reimi.md)
+* [Mikstury](przedmioty/mikstury/README.md)
+  * [Mała mikstura](przedmioty/mikstury/mala-mikstura.md)
+  * [Średnia mikstura](przedmioty/mikstury/srednia-mikstura.md)
+  * [Adaptacyjna mikstura](przedmioty/mikstury/adaptacyjna-mikstura.md)
 
 ## Walka
 
 * [Game loop](walka/game-loop.md)
+* [Akcje](walka/akcje.md)
 * [Umiejętności](walka/umiejetnosci.md)
 
 ## Gracz
 
+* [Statystyki](gracz/statystyki.md)
+* [Poziomy](gracz/poziomy.md)
 * [Umiejętności](gracz/umiejetnosci/README.md)
   * [Obrażenia](gracz/umiejetnosci/obrazenia/README.md)
     * [Poziom 1](gracz/umiejetnosci/obrazenia/poziom-1.md)
@@ -90,8 +148,29 @@
     * [Poziom 5](gracz/umiejetnosci/specjalista/poziom-5.md)
     * [Poziom 6](gracz/umiejetnosci/specjalista/poziom-6.md)
 * [Party](gracz/party.md)
+* [Ekwipunek](gracz/ekwipunek.md)
+
+## NPC
+
+* [Ogólne](npc/ogolne.md)
+
+## Moby
+
+* [Pierwsze piętro](moby/pierwsze-pietro/README.md)
+  * [Skalniak](moby/pierwsze-pietro/skalniak.md)
+  * [Wilk](moby/pierwsze-pietro/wilk.md)
+  * [Rycerz](moby/pierwsze-pietro/rycerz.md)
+  * [Smok](moby/pierwsze-pietro/smok.md)
+  * [Błąd](moby/pierwsze-pietro/blad.md)
+* [Drugie piętro](moby/drugie-pietro/README.md)
+  * [Żywiołak](moby/drugie-pietro/zywiolak.md)
+  * [Golem](moby/drugie-pietro/golem.md)
+  * [Ork](moby/drugie-pietro/ork.md)
+  * [Strach na wróble](moby/drugie-pietro/strach-na-wroble.md)
+  * [Jadowity pająk](moby/drugie-pietro/jadowity-pajak.md)
 
 ## Inne
 
 * [Statystyki](inne/statystyki.md)
 * [Pancerze](inne/pancerze.md)
+* [Efekty](inne/efekty.md)

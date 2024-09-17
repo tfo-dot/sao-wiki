@@ -18,4 +18,4 @@ Jeśli odblokujesz umiejętność ze ścieżki obrażeń na pierwszym poziomie, 
 
 ## Super umiejętność
 
-Super umiejętności są dostępne co 10 poziomów, możliwe opcje zależą od wcześniejszych wyborów umiejętności. Innymi słowy im więcej umiejętności z danej ścieżki weźmiecie super umiejętności z takiej ścieżki dostaniecie.
+Super umiejętności są dostępne co 10 poziomów, możliwe opcje zależą od wcześniejszych wyborów umiejętności. Innymi słowy im więcej umiejętności z danej ścieżki weźmiecie, super umiejętności z takiej ścieżki dostaniecie do wyboru.
