@@ -174,3 +174,4 @@
 * [Statystyki](inne/statystyki.md)
 * [Pancerze](inne/pancerze.md)
 * [Efekty](inne/efekty.md)
+* [Komendy](inne/komendy.md)
