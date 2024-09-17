@@ -7,7 +7,7 @@ Ta strona opisuje wzajemne zależności między pancerzami i przebiciem.
 Pancerze redukują otrzymane obrażenia zgodnie z formułą poniżej.
 
 $$
-o =dmg - (dmg * \frac{100}{100-p})
+o =dmg - (dmg * \frac{100}{100+p})
 $$
 
 Gdzie:
@@ -15,6 +15,12 @@ Gdzie:
 * o = to obrażenia wynikowe
 * p = pancerz
 * dmg = początkowe obrażenia
+
+W przypadku pancerza mniejszego niż zero. Wzór na obrażenia wygląda troszkę inaczej:
+
+$$
+o =dmg - (dmg * (2-\frac{100}{100-p}))
+$$
 
 ## Przebicie
 
