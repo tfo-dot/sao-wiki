@@ -14,13 +14,9 @@ Maksymalna ilość graczy w party to 6
 
 Zarządza party, może rozwiązać, zaprosić i wyrzucać użytkowników
 
-{% hint style="info" %}
-Lider zawsze otrzymuje przedmioty wypadające z zabitych przeciwników
-{% endhint %}
-
 ### DPS
 
-Otrzymuje 10%[#procentowa-sila-adaptacyjna](../inne/statystyki.md#procentowa-sila-adaptacyjna "mention"), wartość ta zwiększa się o 5 za każdego sojusznika w party (z wyłączeniem siebie)
+Otrzymuje 10% ATK oraz 10% AP, wartość ta zwiększa się o 5 za każdego sojusznika w party (z wyłączeniem siebie)
 
 ### Tank
 

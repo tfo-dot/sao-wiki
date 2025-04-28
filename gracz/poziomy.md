@@ -16,3 +16,7 @@ Dodatkowo przywraca wam 20%, maksymalnego zdrowia.
 ## Limit poziomów
 
 Maksymalny poziom do zdobycia w danej chwili to 5x liczba odblokowanych pięter.
+
+## Ultimate
+
+Co 10 poziomów możecie odblokować umiejętność specjalną, ścieżka umiejętności specjalnej jest wybrana na podstawie największej ilości odblokowanych umiejętności (i ulepszeń) z danej ścieżki

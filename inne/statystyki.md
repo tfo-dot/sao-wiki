@@ -70,16 +70,6 @@ Przebicie odporności na magię, po szczegóły zobacz [pancerze.md](pancerze.md
 
 Procentowe przebicie odporności na magię, po szczegóły zobacz [pancerze.md](pancerze.md "mention")
 
-## Siła adaptacyjna
-
-Statystyka dynamiczna, w zależności od tego czego masz więcej ([#atk](statystyki.md#atk "mention") albo [#moc-umiejetnosci](statystyki.md#moc-umiejetnosci "mention")) tą dostajesz.&#x20;
-
-Jeśli wartości są równe (jednostka ma tyle samo AP i ATK), dostaje ona ATK.
-
-## Procentowa siła adaptacyjna
-
-Procentowy odpowiednik [#sila-adaptacyjna](statystyki.md#sila-adaptacyjna "mention")
-
 ## Kradzież życia
 
 Procentowa wartość o jaką leczy się jednostka przy ataku (i kontrze). Finalna wartość leczenia zależna jest od zadanych obrażeń.
